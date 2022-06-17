@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_06_2022", "09_06_2022.csproj", "{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A64567BC-548A-4CB7-9F2C-ECE75EE1A868} = {A64567BC-548A-4CB7-9F2C-ECE75EE1A868}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbSerialForAndroid", "..\..\..\Desktop\UsbSerialForAndroid-main\UsbSerialForAndroid\UsbSerialForAndroid.csproj", "{A64567BC-548A-4CB7-9F2C-ECE75EE1A868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2E54F8-1DAC-442E-BA1A-9B8D436C3595}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A64567BC-548A-4CB7-9F2C-ECE75EE1A868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64567BC-548A-4CB7-9F2C-ECE75EE1A868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64567BC-548A-4CB7-9F2C-ECE75EE1A868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64567BC-548A-4CB7-9F2C-ECE75EE1A868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E026EE59-CB7A-4942-AA52-AEE1854C5251}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">_09_06_2022</string>
+    <string name="action_settings">Settings</string>
+	<string name="refreshing">Refreshing...</string>
+	<string name="sleep">Sleep</string>
+	<string name="wakeup">Wakeup</string>
+	<string name="init_camera">Init_camera</string>
+	<string name="led_on">Led_On</string>
+	<string name="led_off">Led_Off</string>
+</resources>
